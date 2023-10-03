@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
+</div>
 
-<!--
-**KartuesovAG/KartuesovAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi there! 👋</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <a href="https://t.me/akartues">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  </div>
+    
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-KartuesovAG&style=flat-square&color=blue" alt=""/>
+</div>
+
+### About Me :
+My name is Andrey and I am a junior Data Scientist from Russia 👨🏽‍💻
+
+
+- 🔭 I am looking for my first job in Data Science.
+- 🌱 From Molecular science to Data Science
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akartues)
